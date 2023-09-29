@@ -13,8 +13,8 @@ public class Main {
             // for you, but you can always add more by pressing Ctrl+8.
             System.out.println(Introduce los datos);
             //añadir lector
-            System.out.println(Nombre:)
-            System.out.println(Contraseña:)
+            System.out.println(Nombre:);
+            System.out.println(Contraseña:);
         }
     }
 }
